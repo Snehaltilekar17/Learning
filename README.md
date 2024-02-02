@@ -1,2 +1,4 @@
 # Learning
-This is Learning journey of git
+This is Learningtilekar journey of git
+Author --Snehal 
+
